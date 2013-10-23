@@ -1,0 +1,6 @@
+Edit->ProjectSettings->VersionControl->Meta Files
+
+Only need Assets and ProjectSettings
+
+Keep WIP Photoshop/Maya files outside of the project, .mb
+
